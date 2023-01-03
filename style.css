@@ -1,0 +1,22 @@
+h1{
+    color: aqua;
+    background-color: black;
+    text-align: center;
+    
+}
+h2{
+    color: aquamarine;
+    text-align: center;
+    border: 30% red;
+}
+h3{
+    text-align: center;
+    color: rgb(235, 143, 5);
+}
+img{
+    display: block;
+    margin: auto;
+    border: 10px solid red;
+    padding: auto;
+
+}
